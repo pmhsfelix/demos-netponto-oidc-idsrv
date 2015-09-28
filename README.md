@@ -7,3 +7,5 @@ Demos for the NetPonto session about OpenID Connect, JWT and IdentityServer3
 
 * The client IDs and secrets for Google and Facebook integration must be defined. 
 Look for the error messages when building the project.
+
+Session slides are [available](https://speakerdeck.com/pmhsfelix/authentication-and-access-control-using-openid-connect-jwt-and-identityserver3).
